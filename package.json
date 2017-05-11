@@ -1,0 +1,19 @@
+{
+  "name": "openapi-sdk-builder-ngrx",
+  "version": "0.0.1",
+  "description": "NGRX generator plugin for openapi-sdk-builder",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start karma.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnyBGod/openapi-sdk-builder-ngrx.git"
+  },
+  "author": "João Ribeiro <jonnybgod@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonnyBGod/openapi-sdk-builder-ngrx/issues"
+  },
+  "homepage": "https://github.com/JonnyBGod/openapi-sdk-builder-ngrx#readme"
+}
